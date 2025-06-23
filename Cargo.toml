@@ -1,0 +1,9 @@
+[package]
+name = "pitch-nailer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+cpal = "0.15.3"
+pitch-detection = "0.3.0"
+anyhow = "1.0"
